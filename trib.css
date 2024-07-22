@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #3498db; /* new background color */
+}
+
+main {
+    padding: 2% 5% 0;
+    background-color: #f2f2f2; /* new background color */
+}
+
+h1.title {
+    font-size: 5em;
+    color: #fff; /* new text color */
+}
+
+.main-section {
+    border-radius: 15px;
+    padding: 30px 30px 10
